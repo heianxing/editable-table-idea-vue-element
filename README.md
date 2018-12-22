@@ -27,3 +27,8 @@ npm test
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
 优雅的elementUI table 单元格可编辑实现方法
+
+最近在做可编辑特定列的单元格的elementUI table，看了N多的开源、文章，找到一个很优雅的实现方式，分享给大家。
+PS:单元格可编辑的table，用英文搜索：Inline editable table with ElementUI 会得到高质量结果。
+
+https://codesandbox.io/s/2pv1o4wxxr
