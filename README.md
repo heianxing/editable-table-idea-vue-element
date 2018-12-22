@@ -32,3 +32,5 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 PS:单元格可编辑的table，用英文搜索：Inline editable table with ElementUI 会得到高质量结果。
 
 https://codesandbox.io/s/2pv1o4wxxr
+
+英文文章：https://www.reddit.com/r/vuejs/comments/842g5c/inline_editable_table_with_elementui/
